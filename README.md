@@ -51,5 +51,5 @@ This tool automatically generates high-level documentation from your source code
 
 ## Try Online
 
-[Link text Here](https://code-document-generator.streamlit.app/)
+[Clik here](https://code-document-generator.streamlit.app/)
 
