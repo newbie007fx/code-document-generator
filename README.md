@@ -49,7 +49,7 @@ This tool automatically generates high-level documentation from your source code
    streamlit run app.py
    ```
 
-## 📷 Example Output
+## Try Online
 
-![example](./screenshots/example_output.png)
+[Link text Here](https://code-document-generator.streamlit.app/)
 
